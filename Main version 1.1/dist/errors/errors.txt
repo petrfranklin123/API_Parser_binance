@@ -1,0 +1,64 @@
+name 'stringg' is not defined
+name 'stringg' is not defined
+
+
+
+APIError(code=-2011): Unknown order sent.
+APIError(code=-2011): Unknown order sent.
+
+
+
+'NoneType' object has no attribute 'tzinfo'
+list index out of range
+APIError(code=-1121): Invalid symbol.
+APIError(code=-1121): Invalid symbol.
+
+
+
+
+
+
+
+
+list index out of range
+
+list index out of range
+
+
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+
+list index out of range
+list index out of range
+
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+
+
+
+
+list index out of range
+
+
+
+
+
+name 'dist' is not defined
+name 'dist' is not defined
+
+
+
+
+
+
+
+
+
+
+
+

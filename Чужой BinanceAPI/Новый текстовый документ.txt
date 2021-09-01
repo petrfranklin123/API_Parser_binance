@@ -1,0 +1,23 @@
+<svg width="148" height="225" viewBox="0 0 148 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M10 194C69.0959 194 69.0959 194 131.569 194V214H10V194Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="204.5" x2="112" y2="204.5" stroke="black"/>
+<path d="M10 174C69.0959 174 69.0959 174 131.569 174V194H10V174Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="184.5" x2="112" y2="184.5" stroke="black"/>
+<path d="M10 154C69.0959 154 69.0959 154 131.569 154V174H10V154Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="164.5" x2="112" y2="164.5" stroke="black"/>
+<path d="M10 134C69.0959 134 69.0959 134 131.569 134V154H10V134Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="144.5" x2="112" y2="144.5" stroke="black"/>
+<path d="M10 114C69.0959 114 69.0959 114 131.569 114V134H10V114Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="124.5" x2="112" y2="124.5" stroke="black"/>
+<path d="M10 94C69.0959 94 69.0959 94 131.569 94V114H10V94Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="104.5" x2="112" y2="104.5" stroke="black"/>
+<path d="M10 74C69.0959 74 69.0959 74 131.569 74V94H10V74Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="84.5" x2="112" y2="84.5" stroke="black"/>
+<path d="M10 54C69.0959 54 69.0959 54 131.569 54V74H10V54Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="64.5" x2="112" y2="64.5" stroke="black"/>
+<path d="M10 34C69.0959 34 69.0959 34 131.569 34V54H10V34Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="44.5" x2="112" y2="44.5" stroke="black"/>
+<path d="M10 14C69.0959 14 69.0959 14 131.569 14V34H10V14Z" fill="#2D9CDB" fill-opacity="0.3"/>
+<line x1="132" y1="24.5" x2="112" y2="24.5" stroke="black"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10 0C4.47715 0 0 4.47716 0 10V214.033C0 219.556 4.47715 224.033 10 224.033H133C138.523 224.033 143 219.556 143 214.033V10C143 4.47715 138.523 0 133 0H10ZM21.9178 10.6785C16.395 10.6785 11.9178 15.1556 11.9178 20.6785V203.499C11.9178 209.022 16.395 213.499 21.9178 213.499H121.085C126.607 213.499 131.085 209.022 131.085 203.499V20.6785C131.085 15.1556 126.607 10.6785 121.085 10.6785H21.9178Z" fill="#C4C4C4"/>
+</svg>

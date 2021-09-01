@@ -1,0 +1,104 @@
+name 'stringg' is not defined
+name 'stringg' is not defined
+
+
+
+APIError(code=-2011): Unknown order sent.
+APIError(code=-2011): Unknown order sent.
+
+
+
+'NoneType' object has no attribute 'tzinfo'
+list index out of range
+APIError(code=-1121): Invalid symbol.
+APIError(code=-1121): Invalid symbol.
+
+
+
+
+
+
+
+
+list index out of range
+
+list index out of range
+
+
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+
+list index out of range
+list index out of range
+
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+
+
+
+
+list index out of range
+
+
+
+
+
+name 'dist' is not defined
+name 'dist' is not defined
+
+
+
+
+
+
+
+
+
+
+
+
+[Errno 2] No such file or directory: 'perem/limit.txt'
+string index out of range
+list index out of range
+replace expected at least 2 arguments, got 1
+list index out of range
+list index out of range
+list index out of range
+list index out of range
+unsupported operand type(s) for -: 'list' and 'int'
+'int' object is not iterable
+'int' object is not iterable
+'int' object is not iterable
+'int' object is not iterable
+'int' object is not iterable
+'int' object is not iterable
+'int' object is not iterable
+APIError(code=-1100): Illegal characters found in parameter 'price'; legal range is '^([0-9]{1,20})(\.[0-9]{1,20})?$'.
+Unknown format code 'f' for object of type 'str'
+not all arguments converted during string formatting
+not all arguments converted during string formatting
+Unknown format code 'f' for object of type 'str'
+Unknown format code 'f' for object of type 'str'
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+APIError(code=-1111): Precision is over the maximum defined for this asset.
+APIError(code=-2010): Account has insufficient balance for requested action.
+list indices must be integers or slices, not str
+'time'
+'origQty'
+'origQty'
+'origQty'
+'origQty'
+APIError(code=-2011): Unknown order sent.
+APIError(code=-2011): Unknown order sent.
+'origQty'
+APIError(code=-2011): Unknown order sent.
+'comission'
+APIError(code=-2011): Unknown order sent.
+APIError(code=-2011): Unknown order sent.
+'qty'
+local variable 'str' referenced before assignment

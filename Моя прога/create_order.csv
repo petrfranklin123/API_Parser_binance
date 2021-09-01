@@ -1,0 +1,1 @@
+{'symbol': 'RVNBTC', 'orderId': 131285434, 'orderListId': -1, 'clientOrderId': 'uv26SdeXW3lOKRnmCmPXn2', 'transactTime': 1626581328051, 'price': '0.00000100', 'origQty': '200.00000000', 'executedQty': '0.00000000', 'cummulativeQuoteQty': '0.00000000', 'status': 'NEW', 'timeInForce': 'GTC', 'type': 'LIMIT', 'side': 'BUY', 'fills': []}
